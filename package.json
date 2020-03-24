@@ -1,0 +1,15 @@
+{
+  "name": "atv-api",
+  "version": "1.0.0",
+  "description": "RESTful API for Apple TV Media Remote Protocol",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "atv-api"
+  },
+  "author": "billw",
+  "license": "MIT"
+}
