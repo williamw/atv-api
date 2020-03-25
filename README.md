@@ -1,2 +1,2 @@
 # atv-api
-RESTful API for Apple TV Media Remote Protocol
+RESTful-ish API for Apple TV Media Remote Protocol
